@@ -15,10 +15,10 @@
     "jsx": "react-jsx",
     "incremental": true,
     "types": ["node", "react", "next"],
-    "baseUrl": ".",
-    "paths": {
-      "@/*": ["./*"]
-    },
+   "paths": {
+  "@/*": ["./*"]
+},
+
     "plugins": [
       {
         "name": "next"
